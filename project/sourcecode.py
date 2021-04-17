@@ -1,5 +1,5 @@
 print("Placement predictor")
-print("A project by AB THEJESHWAR + CR SHARVESH KUMAR + TAMIL VENDHAN K + VAJAKATHALI A")
+print("A project by INFT A TE Students")
 print()
 
 import pandas as pd
