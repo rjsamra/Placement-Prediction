@@ -98,7 +98,7 @@ def ex_graph(x, y, z, b, x1, y1):
 
 #main code starts here
 
-df=pd.read_csv("https://raw.githubusercontent.com/Sharveshkumar-14/sharvesh-kumar/master/PP%20-%20Sheet1-1.csv")
+df=pd.read_csv("https://raw.githubusercontent.com/rjsamra/Placement-Prediction/main/Dataset.csv")
 # print(df)
 df=df[:1000]
 
